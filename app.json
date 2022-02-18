@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "actividad_3_Hugo_Lujan",
-    "slug": "actividad_3_Hugo_Lujan",
+    "name": "actividad_3_alan_perez",
+    "slug": "actividad_3_alan_perez",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "En esta versión se puede visualizar el prendido y apagado del foco",
+    "githubUrl": "https://github.com/alanperezbro"
   }
 }
